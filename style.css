@@ -38,6 +38,18 @@ a.skip-search {
     padding: 1em;
 }
 
+.app {
+    height: 22px;
+    width: 22px;
+    display: inline-block;
+    opacity: 0.6;
+    vertical-align: middle;
+}
+
+.app:hover {
+    opacity: 1.0;
+}
+
 .sign-in {
     height: 30px;
     width: 70px;
